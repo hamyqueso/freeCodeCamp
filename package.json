@@ -1,0 +1,22 @@
+{
+  "name": "@hamyqueso/freecodecamp",
+  "version": "1.0.0",
+  "description": "freeCodeCamp development environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamyqueso/freeCodeCamp.git"
+  },
+  "keywords": [
+    "freeCodeCamp"
+  ],
+  "author": "Jonathan Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamyqueso/freeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/hamyqueso/freeCodeCamp#readme"
+}
