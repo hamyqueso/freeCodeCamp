@@ -4,7 +4,7 @@
   "description": "freeCodeCamp development environment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hamyqueso/freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/hamyqueso/freeCodeCamp#readme"
+  "homepage": "https://github.com/hamyqueso/freeCodeCamp#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
