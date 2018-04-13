@@ -1,0 +1,14 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "main": "module6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bl": "^1.2.2"
+  }
+}
