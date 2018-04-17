@@ -1,0 +1,17 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Expressworks exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expressworks"
+  ],
+  "author": "Jonathan Cheung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
